@@ -2,8 +2,7 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 .bimg{background-image:url("../images/sky.jpg");
 	padding: 40px; 
-	opacity:0.8; 
-	background-repeat: no-repeat;}
+	opacity:0.8;}
 #name{
 	font-family: Bebas Neue;
 	color:lightcoral; 

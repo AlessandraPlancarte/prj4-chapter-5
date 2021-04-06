@@ -1,29 +1,50 @@
 @charset "UTF-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
-.bimg{background-image:url("../images/sky.jpg");
+
+.bimg{
+	background-image:url("../images/sky.jpg");
 	padding: 40px; 
-	opacity:0.8;}
+	opacity:0.8;
+}
+
 #name{
 	font-family: Bebas Neue;
 	color:lightcoral; 
 	font-weight: bold;
 	font-size: 60px;
-	text-align: center}
-.image{margin:auto;
-padding: 20px;}
-h3{font-style: italic;
-text-align: center}
+	text-align: center
+}
+
+.image{
+	margin: auto;
+	padding: 20px;
+}
+
+h3{
+	font-style: italic;
+	text-align: center;
+}
+
 .headers{
 	font-family: Lato; 
 	color: lightcoral;
 	font-size: 25px;
-	padding:10px;}
-#phrase {color: #CD9BF3}
-p{font-family: Lato; 
-	font-size: 16px}
+	padding:10px;
+}
+
+#phrase {
+	color: #CD9BF3;
+}
+
+p{
+	font-family: Lato;
+	font-size: 16px;
+}
+
 .box1{
 	text-align: center;
 	padding: 0.5em,;
-background-color:#CCEAF9;
-margin: 60px;
-	border: aqua 8px dotted;}
+	background-color:#CCEAF9;
+	margin: 60px;
+	border: aqua 8px dotted;
+}
